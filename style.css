@@ -1,0 +1,27 @@
+.user-table{
+    width: 400px;
+    margin: auto;
+    border-spacing: 0px;
+    border-collapse: collapse;
+    
+}
+.user-table td,
+.user-table th{
+    border: 1px solid;
+    padding: 10px 5px;
+    min-width: 120px;
+}
+
+.user-table th{
+    background-color: blueviolet;
+    color:white;
+    border-color: black;
+    text-align: left;
+}
+
+.user-table tbody tr:nth-child(eve
+n){
+    background-color: azure;
+} 
+
+
